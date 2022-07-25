@@ -1,5 +1,5 @@
 # antlr4Paser
-使用`antlr4`解析`/proc/meminfo`文件,解析剩余内存容量,内存不足时通过SMTP报警
+使用`antlr4`解析`/proc/meminfo`文件,查看剩余内存容量,内存不足时通过SMTP报警
 
 ## 环境
 ```
